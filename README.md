@@ -2,10 +2,6 @@
 
 #### `React`, `websocket`, `indexedDB`, `reduxjs/toolkit`, `styled-components`
 
-We wait your solutions in the hh.ru chat or if the vacancy has been already removed/chat didn’t work properly but you have solved the task - email job@qex.team (the response time will be a bit longer)
-
-We wish you good luck and are looking forward to see you in our team!
-
 Test task:
 Develop a simple chat(web app). Use a web-socket for messaging. App design (link FIGMA).
 
