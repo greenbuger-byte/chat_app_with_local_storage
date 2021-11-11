@@ -1,6 +1,6 @@
 ## “Frontend-developer (React)” - VOL Test
 
-
+#### `React`, `websocket`, `indexedDB`, `reduxjs/toolkit`
 
 We wait your solutions in the hh.ru chat or if the vacancy has been already removed/chat didn’t work properly but you have solved the task - email job@qex.team (the response time will be a bit longer)
 
