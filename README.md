@@ -20,7 +20,7 @@ Data format is free. Test it.
 ### RESULT:
 Внешний вид:
 
-<img alt="Chat release" src="https://s78vla.storage.yandex.net/rdisk/14d2ce15b686ccaed734a744a79d73380175f0d9c8aaa20d3146f02e1ca310d7/618d356b/0uOTq58KPWkvqUgNqw35VgLaYOiiNyicci5mWJdZqN_8SFzTgHrkOBVrbL2a7tYyqqtsivi1kUb1NElgkLz_qg==?uid=192293334&filename=chat1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=192293334&fsize=240088&hid=011d3c9fd211a28ac7ca19de5e89fc2d&media_type=image&tknv=v2&etag=f97d2857212df6bb65536e80cda60f6e&rtoken=wHMiAyXObUTo&force_default=yes&ycrid=na-d40e7e1073fd6a6bfb2d9494075861f7-downloader21e&ts=5d084ec57f0c0&s=2c9baf4ca8f7abba8ca5da021337e5f49c6e247aa4846a1f4ef8d081ee0a6f4f&pb=U2FsdGVkX1-O1_AwOUZzP9A0Hrjp95VXCun-rw1jV6jVg1-VdvBzT7-6nZPqDfU9n4gur_ONZCjw7hXfPjaitSKqRQE2fUyMyu9kx8HmdD4" />
+<img alt="Chat release" src="https://s102vla.storage.yandex.net/rdisk/96fe8762f2339d3e880b6fab02ae1eacc7fd7c4ae5d5a3853a7b702b950cff9e/618d4243/0uOTq58KPWkvqUgNqw35VkSd_O1KuNAuPE0k3EqdKNj9yIzkflmzogVYtd907iusU2hUT-D7ZeQn_qNIpvP8Bg==?uid=192293334&filename=chat5.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=192293334&fsize=315915&hid=359d16d42f6bcaf09fa5ff3917a99e35&media_type=image&tknv=v2&etag=751b82616e95c6c2f8e5125631d758b0&rtoken=O95BbKxkg7lq&force_default=yes&ycrid=na-0f422eb3c7c23ecb34f96f5a783e16ea-downloader24f&ts=5d085b052d6c0&s=8e2fc6714bda443202113d92678ad5ee547379d704a333509ead7ce7d8fd6065&pb=U2FsdGVkX1-9z0-9DENHL7qNL7beXwn3ZUtEWGm1N86fmfUbV4geEm_7pb4xh8wgatLnigONoJa3u67aC9imxsKeY0rY8NBRZRmkw4yfTDo" />
 
 ###  Хранение в локальной IndexedDB:
 

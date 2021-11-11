@@ -12,8 +12,8 @@ const TextInput = (props) => {
 
     const handleKeyDown = (event) => {
         if (event.key === 'Enter') {
-            sendMessageHandler();
             event.preventDefault();
+            message.length && sendMessageHandler();
         }
     }
 
